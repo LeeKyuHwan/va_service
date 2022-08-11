@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VAPIService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="apiHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://127.0.0.1</Value>
+    </Setting>
+    <Setting Name="SafrHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3.35.17.32</Value>
+    </Setting>
+    <Setting Name="CoviPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8080</Value>
+    </Setting>
+    <Setting Name="Auth" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sqisoftb490006:sqisoft74307!</Value>
+    </Setting>
+    <Setting Name="CenterPose" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.01</Value>
+    </Setting>
+    <Setting Name="Sharpness" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.01</Value>
+    </Setting>
+    <Setting Name="Contrast" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0.01</Value>
+    </Setting>
+    <Setting Name="VanalAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:9091</Value>
+    </Setting>
+    <Setting Name="VSearchAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:9093</Value>
+    </Setting>
+    <Setting Name="KistApiAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:9095</Value>
+    </Setting>
+    <Setting Name="FacemeApiAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:9096</Value>
+    </Setting>
+    <Setting Name="C94DBScanAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:9092</Value>
+    </Setting>
+    <Setting Name="C94FrHelperAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:9094</Value>
+    </Setting>
+    <Setting Name="C96DBScanAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:9097</Value>
+    </Setting>
+    <Setting Name="C96FrHelperAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:9098</Value>
+    </Setting>
+    <Setting Name="CognitecVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C96</Value>
+    </Setting>
+    <Setting Name="SafrApiAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:9099</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

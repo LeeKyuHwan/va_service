@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DBScanSvc.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="config" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\FVSDK_9_6_0\etc\frsdk.cfg</Value>
+    </Setting>
+    <Setting Name="CognitecVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C96</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

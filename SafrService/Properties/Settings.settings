@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SafrService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SafrHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="Covi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">28080</Value>
+    </Setting>
+    <Setting Name="CenterPose" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.01</Value>
+    </Setting>
+    <Setting Name="Sharpness" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.01</Value>
+    </Setting>
+    <Setting Name="Contrast" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.01</Value>
+    </Setting>
+    <Setting Name="Auth" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sqisoftb490006:sqisoft74307!</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
